@@ -75,4 +75,4 @@ Finally, follow the instructors' advice to compile and test your code on Flip. T
 
 When this course started, I was undecided about whether I wanted to complete the entire degree program. However, I learned a lot in this class, and I am looking forward learning more. So, I plan to continue working towards a second Bachelor's degree in computer science with OSU.
 
-The winter quarter starts tomorrow and I'll be taking Discrete Structures (because it's a prerequisite for further classes) and Web Development (because it's a required course and this is a good time to get it our of the way, but it will also me an opportunity to learn about Node.js). Later on, I'm looking forward to taking more advanced CS courses in assembly langauge, operating systems, and more.
+The winter quarter starts tomorrow and I'll be taking Discrete Structures (because it's a prerequisite for further classes) and Web Development (because it's a required course and this is a good time to get it our of the way, but it will also me an opportunity to learn about Node.js). Later on, I'm looking forward to taking more advanced CS courses in assembly language, operating systems, and more.
