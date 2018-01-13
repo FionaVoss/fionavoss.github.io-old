@@ -1,0 +1,11 @@
+<div>
+  <h3>
+    {% if url %}
+      <a href="{{ url }}">{{name}}</a>
+    {% else %}
+      {{name}}
+    {% endif %}
+    on {{date | date: "%B %d, %Y"}}
+  </h3>
+  {{message}}
+</div>
