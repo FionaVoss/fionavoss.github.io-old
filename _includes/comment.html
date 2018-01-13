@@ -1,11 +1,15 @@
-<div>
-  <h3>
+<div class="post-content">
+  <h4>
     {% if url == '' %}
-      {{name}}
+      {{ name }}
     {% else %}
-      <a href="{{ url }}">{{name}}</a>
+      <a href="{{ url }}">{{ name }}</a>
     {% endif %}
-    on {{date | date: "%B %d, %Y"}}
-  </h3>
-  {{message}}
+  </h4>
+  <p class="post-meta">
+    {{ date | date: "%B %d, %Y" }}
+  </p>
+  <p>
+    {{ message | newline_to_br }}
+  </p>
 </div>
