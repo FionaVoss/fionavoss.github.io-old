@@ -1,9 +1,9 @@
 <div>
   <h3>
-    {% if url %}
-      <a href="{{ url }}">{{name}}</a>
-    {% else %}
+    {% if url == '' %}
       {{name}}
+    {% else %}
+      <a href="{{ url }}">{{name}}</a>
     {% endif %}
     on {{date | date: "%B %d, %Y"}}
   </h3>
