@@ -6,7 +6,7 @@ This past fall, I took CS 165: Accelerated Introduction to Computer Science, onl
 
 When the course started, I had been working as a Rails developer for just over a year after finishing [LEARN Academy's web development bootcamp](https://www.learnacademy.org/). I was experienced at programming in Ruby and JavaScript, but I had no experience with C++, the language used in this course, and no other formal CS education.
 
-In this blog post, I'll describe my experience taking the class as a professional web developer and bootcamp grad. It will help new and prospective OSU students know what to expect from CS 165, but since intoductory CS classes will cover a lot of the same material no matter where you study, I think it will also help other bootcamp grads decide whether they want to take a similar class from any other university or college.
+In this blog post, I'll describe my experience taking the class as a professional web developer and bootcamp grad. It will help new and prospective OSU students know what to expect from CS 165, but since introductory CS classes will cover a lot of the same material no matter where you study, I think it will also help other bootcamp grads decide whether they want to take a similar class from any other university or college.
 
 ## Course structure
 

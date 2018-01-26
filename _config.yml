@@ -1,43 +1,23 @@
-# Welcome to Jekyll!
+# Permalinks
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Fiona Voss
-description: > # this means to ignore newlines until "baseurl:"
-  I'm a software developer based in San Diego, CA.
-  I <3 Ruby on Rails
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fionavoss.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: fionajvoss
-github_username:  fionavoss
-google_analytics: UA-112917999-1
-disqus:
-  shortname: fionavossblog
-# Build settings
-markdown: kramdown
-theme: minima
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
 plugins:
-  - jekyll-feed
+  [jekyll-paginate]
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Setup
+title:               Fiona Voss
+tagline:             'Software developer and computer science student'
+description:         ''
+url:                 http://fionavoss.github.io
+baseurl:             ''
+paginate:            1
+related_posts:       false
+
+# About/contact
+author:
+  name:              Fiona Voss
+
+# Custom vars
+version:             1.0.0
