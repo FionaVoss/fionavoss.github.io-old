@@ -18,7 +18,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm a software developer based in San Diego, CA.
   I <3 Ruby on Rails
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://fionavoss.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fionajvoss
 github_username:  fionavoss
 google_analytics: UA-112917999-1
