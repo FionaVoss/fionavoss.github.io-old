@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Archive
+layout: default
+title: Home
 ---
 
 ## Blog Posts
