@@ -1,7 +1,10 @@
 ---
+title: My Experience Taking Intro to Computer Science As A Web Developer and Bootcamp
+  Grad
+date: 2018-01-07 00:00:00 Z
 layout: post
-title: My Experience Taking Intro to Computer Science As A Web Developer and Bootcamp Grad
 ---
+
 This past fall, I took CS 165: Accelerated Introduction to Computer Science, online from Oregon State University. It was my first course as a student in [OSU's post-baccalaureate computer science program](http://ecampus.oregonstate.edu/online-degrees/undergraduate/computer-science/), through which I'll be earning my second bachelor's degree over the next 2-3 years.
 
 When the course started, I had been working as a Rails developer for just over a year after finishing [LEARN Academy's web development bootcamp](https://www.learnacademy.org/). I was experienced at programming in Ruby and JavaScript, but I had no experience with C++, the language used in this course, and no other formal CS education.

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 I'm a software developer based in San Diego, CA.

@@ -1,24 +1,23 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-# relative_permalinks: true
+---
+title: Fiona Voss
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
 plugins:
-  [jekyll-paginate]
-
-# Setup
-title:               Fiona Voss
-tagline:             'Software developer and computer science student'
-description:         ''
-url:                 http://fionavoss.github.io
-baseurl:             ''
-paginate:            1
-related_posts:       false
-twitter_username:    fionajvoss
-
-# About/contact
+- jekyll-paginate
+tagline: Software developer and computer science student
+description: ''
+url: http://fionavoss.github.io
+baseurl: ''
+paginate: 1
+related_posts: false
+twitter_username: fionajvoss
 author:
-  name:              Fiona Voss
-
-# Custom vars
-version:             1.0.0
+  name: Fiona Voss
+version: 1.0.0
